@@ -85,7 +85,7 @@ const products = [
         'The Blueprint is the sixth studio album by American rapper Jay-Z, released on September 11, 2001, through Roc-A-Fella Records and Def Jam Recordings. Its release was set a week earlier than initially planned in order to combat bootlegging',
       'genre': 'Rap',
       'category': 'Cassette',
-      'price': 19.99,
+      'price': 19.76,
       'countInStock': 11,
       'rating': 4,
       'numReviews': 17,
