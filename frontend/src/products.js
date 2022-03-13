@@ -54,7 +54,7 @@ const products = [
     {
       '_id': '5',
       'name': 'Kind of blue',
-      'image': '/images/miles.jpg',
+      'image': '/images/david.jpg',
       'description':
         'Kind of Blue is a studio album by American jazz trumpeter, composer, and bandleader Miles Davis. It was recorded on March 2 and April 22, 1959, at Columbias 30th Street Studio in New York City, and released on August 17 of that year by Columbia Records.',
       'genre': 'Jazz',
@@ -76,6 +76,32 @@ const products = [
       'countInStock': 30,
       'rating': 4,
       'numReviews': 12,
+    },
+    {
+      '_id': '7',
+      'name': 'The blue-print',
+      'image': '/images/jay.jpg',
+      'description':
+        'The Blueprint is the sixth studio album by American rapper Jay-Z, released on September 11, 2001, through Roc-A-Fella Records and Def Jam Recordings. Its release was set a week earlier than initially planned in order to combat bootlegging',
+      'genre': 'Rap',
+      'category': 'Cassette',
+      'price': 19.99,
+      'countInStock': 11,
+      'rating': 4,
+      'numReviews': 17,
+    },
+    {
+      '_id': '8',
+      'name': 'Loud',
+      'image': '/images/rihanna.jpg',
+      'description':
+        'Loud is the fifth studio album by Barbadian singer Rihanna. It was released on November 12, 2010, by Def Jam Recordings and SRP Records. The album was recorded between February and August 2010, during the singer"s Last Girl on Earth tour and the filming of her first feature film Battleship.',
+      'genre': 'Pop',
+      'category': 'Vinyl',
+      'price': 29.99,
+      'countInStock': 0,
+      'rating': 16,
+      'numReviews': 22,
     },
   ]
   
