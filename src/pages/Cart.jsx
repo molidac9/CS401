@@ -82,7 +82,7 @@ const ProductId = styled.span``;
 
 
 
-const ProductSize = styled.span``;
+
 
 const PriceDetail = styled.div`
   flex: 1;
@@ -177,9 +177,7 @@ const Cart = () => {
                     <b>ID:</b> 93813718293
                   </ProductId>
                   
-                  <ProductSize>
-                    <b>Size:</b> 37.5
-                  </ProductSize>
+                  
                 </Details>
               </ProductDetail>
               <PriceDetail>
@@ -203,9 +201,7 @@ const Cart = () => {
                     <b>ID:</b> 93813718293
                   </ProductId>
                  
-                  <ProductSize>
-                    <b>Size:</b> M
-                  </ProductSize>
+                  
                 </Details>
               </ProductDetail>
               <PriceDetail>
